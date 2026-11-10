@@ -4,7 +4,7 @@ A timed multiple-choice quiz about REST APIs, JSON, Android networking and image
 
 Pynexia Android Development / Week 3.
 
-[Hosted showcase](https://engeyad.github.io/pynexia-week3-quiz/) · [PDF report](https://github.com/ENGEyad/pynexia-week3-quiz/releases/latest/download/Quiz-App-Report.pdf) · [APK](https://github.com/ENGEyad/pynexia-week3-quiz/releases/latest/download/Quiz-App.apk) · [Source ZIP](https://github.com/ENGEyad/pynexia-week3-quiz/releases/latest/download/Quiz-App.zip)
+[Hosted showcase](https://engeyad.github.io/pynexia-week3-quiz/) · [PDF report](https://github.com/ENGEyad/pynexia-week3-quiz/releases/latest/download/Quiz-App-Report.pdf) · [APK](https://github.com/ENGEyad/pynexia-week3-quiz/releases/latest/download/quiz-debug.apk) · [Source ZIP](https://github.com/ENGEyad/pynexia-week3-quiz/releases/latest/download/Quiz-App.zip)
 
 ## Implementation
 
