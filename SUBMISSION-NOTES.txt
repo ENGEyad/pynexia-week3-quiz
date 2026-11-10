@@ -1,0 +1,11 @@
+Native Android Quiz App built with Java and XML. Includes ten multiple-choice questions about HTTP, REST APIs, JSON, asynchronous networking and image loading.
+
+Each question has four choices and a 15-second countdown. The score counts correct selections. Every answer displays a short explanation; the final screen provides a score and restart option.
+
+Run the quiz module in Android Studio with JDK 17/21 and Android SDK 35 on Android 8.0/API 26 or later. No internet connection is required.
+
+Build: assembleDebug passed. Automated tests were not run. Lint findings are included in the repository and report.
+
+The quiz and answer key are local. Scores are limited to the current round.
+
+Hosted page includes the APK, source archive, report and screenshots.
